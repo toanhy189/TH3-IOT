@@ -1,6 +1,7 @@
 # Thực hành buổi 3: Lập trình Python với CoAP
 
 **Sinh viên:** Phạm Khánh Toàn — **Mã sinh viên:** B23DCCN834
+**Sinh viên:** Hà Hải Long — **Mã sinh viên:** B23DCCN498
 
 Project thực hiện đầy đủ ba bài trong tài liệu thực hành: trao đổi thông điệp, mô phỏng cảm biến, và điều khiển đèn thông minh bằng CoAP Observe.
 
