@@ -1,0 +1,25 @@
+test_bai1_get_post_and_latest_message (test_coap_integration.CoAPIntegrationTests.test_bai1_get_post_and_latest_message) ... GET request received: /iot/lab/message
+POST request received:
+Payload: Xin chao tu CoAP Client - B23DCCN834 - Phạm Khánh Toàn
+Time: 13:29:48
+GET request received: /iot/lab/message
+ok
+test_bai2_sensor_json_and_refresh (test_coap_integration.CoAPIntegrationTests.test_bai2_sensor_json_and_refresh) ... GET /iot/lab/sensor01/data: {'device_id': 'sensor01', 'temperature': 28.7, 'humidity': 54.7}
+Sensor updated: {'device_id': 'sensor01', 'temperature': 38.9, 'humidity': 45.8}
+GET /iot/lab/sensor01/data: {'device_id': 'sensor01', 'temperature': 38.9, 'humidity': 45.8}
+ok
+test_bai3_get_put_and_observe_two_clients (test_coap_integration.CoAPIntegrationTests.test_bai3_get_put_and_observe_two_clients) ... Active Observe clients: 1
+Active Observe clients: 2
+PUT request received:
+Device: light01
+Command: ON
+Light state changed: OFF -> ON
+Notify observers: ON
+Active Observe clients: 1
+Active Observe clients: 0
+ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 3.454s
+
+OK

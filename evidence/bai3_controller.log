@@ -1,0 +1,13 @@
+Nhap lenh (ON/OFF/STATUS/EXIT): Sending GET request...
+Response Code: 2.05 Content
+{"device_id": "light01", "status": "OFF"}
+Nhap lenh (ON/OFF/STATUS/EXIT): Sending PUT request...
+Response Code: 2.04 Changed
+Da bat den light01
+Nhap lenh (ON/OFF/STATUS/EXIT): Sending GET request...
+Response Code: 2.05 Content
+{"device_id": "light01", "status": "ON"}
+Nhap lenh (ON/OFF/STATUS/EXIT): Sending PUT request...
+Response Code: 2.04 Changed
+Da tat den light01
+Nhap lenh (ON/OFF/STATUS/EXIT):

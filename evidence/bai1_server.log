@@ -1,0 +1,5 @@
+CoAP Server started on 127.0.0.1:5683
+GET request received: /iot/lab/message
+POST request received:
+Payload: Xin chao tu CoAP Client - B23DCCN834 - Phạm Khánh Toàn
+Time: 13:28:03

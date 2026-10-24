@@ -1,0 +1,4 @@
+Sensor CoAP Server started on 127.0.0.1:5683
+GET /iot/lab/sensor01/data: {'device_id': 'sensor01', 'temperature': 38.7, 'humidity': 60.6}
+Sensor updated: {'device_id': 'sensor01', 'temperature': 23.6, 'humidity': 63.9}
+GET /iot/lab/sensor01/data: {'device_id': 'sensor01', 'temperature': 23.6, 'humidity': 63.9}

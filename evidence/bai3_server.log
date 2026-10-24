@@ -1,0 +1,13 @@
+CoAP Smart Light Server started on 127.0.0.1:5683
+Resource: /iot/lab/light01/status
+Active Observe clients: 1
+PUT request received:
+Device: light01
+Command: ON
+Light state changed: OFF -> ON
+Notify observers: ON
+PUT request received:
+Device: light01
+Command: OFF
+Light state changed: ON -> OFF
+Notify observers: OFF
